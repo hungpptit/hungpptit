@@ -56,15 +56,17 @@
   </a>
 </p>
 
-<table width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjgwMWdkNDF3NjJ3djlldG1pYndmY2dxN2U2eTh5cWhmZnQwenhmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" width="150px" />
-    </td>
-    <td align="right" width="50%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjdobjRyMTV6Z296bnhpZG02NmFhcXp5a3E5Znk5NnFqeXdkb3lnayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W8tizn4VT7bAqSJxkY/giphy.gif" width="150px" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjgwMWdkNDF3NjJ3djlldG1pYndmY2dxN2U2eTh5cWhmZnQwenhmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" width="100%" style="max-width:300px;" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjdobjRyMTV6Z296bnhpZG02NmFhcXp5a3E5Znk5NnFqeXdkb3lnayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W8tizn4VT7bAqSJxkY/giphy.gif" width="100%" style="max-width:300px;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="right">(Tự động cập nhật 🚀)</p>
