@@ -15,12 +15,8 @@
 ### 📊 Thống kê GitHub của mình
 
 <p align="center">
-  <a href="https://github.com/hungpptit">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hungpptit&show_icons=true&theme=radical&count_private=true" alt="hungpptit GitHub stats" />
-  </a>
-  <a href="https://github.com/hungpptit">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungpptit&layout=compact&theme=radical&hide_progress=false" alt="Top Languages" />
-  </a>
+  <img height="180em" src="https://github-readme-stats-two-no-bg.vercel.app/api?username=hungpptit&show_icons=true&theme=radical&count_private=true" alt="hungpptit GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-two-no-bg.vercel.app/api/top-langs/?username=hungpptit&layout=compact&theme=radical&hide_progress=false" alt="Top Languages" />
 </p>
 
 ### 🔥 Hoạt động gần đây
