@@ -15,11 +15,13 @@
 ### 📊 Thống kê GitHub của mình
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hungpptit&show_icons=true&theme=radical&rank_icon=github" alt="hungpptit GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hungpptit&theme=radical" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=hungpptit&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hungpptit&theme=radical" alt="GitHub Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hungpptit&theme=radical&utcOffset=7" />
 </p>
 
 ### 📈 Biểu đồ đóng góp
