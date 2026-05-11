@@ -1,7 +1,7 @@
 # 👋 Xin chào, mình là Hưng (hungpptit)! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1SMeMvGvW2AInu7L0/giphy.gif" width="50px">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </div>
 
 ### 💫 Giới thiệu về mình
@@ -12,21 +12,26 @@
 
 ---
 
+### 📈 Biểu đồ đóng góp & Snake Game
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hungpptit&theme=react-dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UEIK/UEIK/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 📊 Thống kê GitHub của mình
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hungpptit&theme=radical" />
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=hungpptit&theme=radical" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hungpptit&theme=radical&utcOffset=7" />
-</p>
-
-### 📈 Biểu đồ đóng góp
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hungpptit&theme=react-dark" width="100%" />
 </p>
 
 ### 🔥 Hoạt động gần đây
@@ -68,4 +73,3 @@
     </tr>
   </table>
 </div>
-
