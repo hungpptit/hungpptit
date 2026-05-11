@@ -44,7 +44,7 @@
 ### 🛠 Công cụ và Công nghệ
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,js,py,cpp,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java,flutter,firebase,mysql,mssql,git,github,vscode,linux,docker" />
   </a>
 </p>
 
