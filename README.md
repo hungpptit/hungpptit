@@ -5,7 +5,7 @@
 </div>
 
 ### 💫 Giới thiệu về mình
-- 🔭 Mình đang làm việc/học tập tại ...
+- 🔭 Mình đang học tập tại **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**
 - 🌱 Mình đang tìm hiểu sâu hơn về **JavaScript, Python và Hệ thống...**
 - 👯 Mình rất sẵn lòng hợp tác trong các dự án Open Source.
 - 💬 Hỏi mình về bất cứ điều gì, mình sẽ cố gắng trả lời sớm nhất!
