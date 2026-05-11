@@ -1,4 +1,4 @@
-# 👋 Xin chào, mình là Hùng (hungpptit)! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1SMeMvGvW2AInu7L0/giphy.gif" width="50px">
+# 👋 Xin chào, mình là Hưng (hungpptit)! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1SMeMvGvW2AInu7L0/giphy.gif" width="50px">
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
@@ -55,5 +55,16 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S74SVTubpZfPh9P7XW/giphy.gif" width="150px" />
+    </td>
+    <td align="right" width="50%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X9Y9Pdz7mKpdS/giphy.gif" width="150px" />
+    </td>
+  </tr>
+</table>
 
 <p align="right">(Tự động cập nhật 🚀)</p>
