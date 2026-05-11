@@ -15,8 +15,12 @@
 ### 📊 Thống kê GitHub của mình
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hungpptit&show_icons=true&theme=radical&count_private=true" alt="hungpptit GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungpptit&layout=compact&theme=radical&hide_progress=false" alt="Top Languages" />
+  <a href="https://github.com/hungpptit">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hungpptit&show_icons=true&theme=radical&count_private=true" alt="hungpptit GitHub stats" />
+  </a>
+  <a href="https://github.com/hungpptit">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungpptit&layout=compact&theme=radical&hide_progress=false" alt="Top Languages" />
+  </a>
 </p>
 
 ### 🔥 Hoạt động gần đây
@@ -36,9 +40,14 @@
 ---
 
 ### 📬 Kết nối với mình
+
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hungpptit" height="30" width="40" /></a>
-  <a href="https://fb.com/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-icon.svg" alt="hungpptit" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/tuanhung.pham.9678" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/p.t.hung_0204/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-<p align="right">(Tự động cập nhật bởi GitHub Readme Stats 🚀)</p>
+<p align="right">(Tự động cập nhật 🚀)</p>
