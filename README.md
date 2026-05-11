@@ -1,8 +1,8 @@
-# 👋 Xin chào, mình là Hùng (hungpptit)!
+# 👋 Xin chào, mình là Hùng (hungpptit)! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1SMeMvGvW2AInu7L0/giphy.gif" width="50px">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hungpptit&label=Lượt%20xem%20profile&color=0e75b6&style=flat" alt="hungpptit" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZWJueXJueW93ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</div>
 
 ### 💫 Giới thiệu về mình
 - 🔭 Mình đang làm việc/học tập tại ...
